@@ -1,1 +1,1 @@
-# study
+# algorithm_study
